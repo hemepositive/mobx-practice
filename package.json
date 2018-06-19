@@ -1,0 +1,25 @@
+{
+  "name": "react-mobx-timer-dice-practice",
+  "version": "1.0.0",
+  "description": "Playing around with mobx, CRA w/o decorators",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "mobx": "5.0.2",
+    "mobx-react": "5.2.3",
+    "mobx-react-devtools": "5.0.1",
+    "react": "16.3.2",
+    "react-dice-complete": "1.0.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "react-with-timer-hoc": "0.2.3",
+    "recompose": "0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
